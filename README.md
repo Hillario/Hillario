@@ -50,6 +50,7 @@
 
 </div>
 
+```text
 {
   designation: HILLARY_CHESARO,
   class: COMPUTER_SCIENCE_SPECIALIST,
@@ -58,6 +59,8 @@
   current_mission: DECENTRALIZE_THE_FUTURE,
   encryption: AES_256_QUANTUM_READY
 }
+
+```
 
 ---
 
@@ -148,6 +151,7 @@
 
 </div>
 
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/ENCRYPTED_EMAIL-hillches%40gmail.com-5eb91e?style=for-the-badge&logo=protonmail&logoColor=white&color=0a0a0a&labelColor=5eb91e" />
@@ -168,6 +172,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=12&duration=3000&pause=500&color=5EB91E&center=true&vCenter=true&width=400&height=25&lines=%3E+SYSTEM_INTEGRITY_VERIFIED;%3E+ENCRYPTED_CONNECTION;%3E+AWAITING_COMMANDS" />
 
+```text
+
 **⟁ SYSTEM ONLINE // ENCRYPTION ACTIVE // QUANTUM READY ⟁**
 
+```
+
 </div>
+
