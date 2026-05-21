@@ -117,11 +117,11 @@
 ```text
 ┌───────────────────────────────────────────────────────────────────────────┐
 │  KENYATTA UNIVERSITY                                                     │
-│  B.SC COMPUTER SCIENCE  [2012-2016]  │  FINAL PROJECT: FORTIS FPS ENGINE │
+│  B.SC COMPUTER SCIENCE  │  FINAL PROJECT: FORTIS FPS ENGINE │
 │  CORE: ALGORITHMS | OOP | AI | OS    │  PATHFINDING: A* IMPLEMENTATION   │
 ├───────────────────────────────────────────────────────────────────────────┤
 │  AFRICAN INSTITUTE OF RESEARCH & DEVELOPMENT                             │
-│  VISUAL BASIC PROGRAMMING [2012]  │  DISTINCTION  │  IMAGE PROCESSING    │
+│  C++ PROGRAMMING  │  DISTINCTION  │  IMAGE PROCESSING    │
 └───────────────────────────────────────────────────────────────────────────┘
 
 ```
