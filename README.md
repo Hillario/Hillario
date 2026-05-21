@@ -1,145 +1,143 @@
 <div align="center">
 
-████████╗███████╗░█████╗░██╗░░██╗
-╚══██╔══╝██╔════╝██╔══██╗██║░░██║
-░░░██║░░░█████╗░░██║░░╚═╝███████║
-░░░██║░░░██╔══╝░░██║░░██╗██╔══██║
-░░░██║░░░███████╗╚█████╔╝██║░░██║
-░░░╚═╝░░░╚══════╝░╚════╝░╚═╝░░╚═╝
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=500&color=5EB91E&center=true&vCenter=true&width=550&height=60&lines=%3E+ACCESSING+NEURAL+INTERFACE;%3E+HILLARY+CHESARO;%3E+STATUS%3A+QUANTUM+ACTIVE" />
 
-# HILLARY CHESARO
-
-### COMPUTER SCIENTIST // FULL STACK DEVELOPER
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=500&color=5EB91E&center=true&vCenter=true&width=550&height=40&lines=%3E+SYSTEM+ACTIVE;%3E+9%2B+YEARS+EXPERIENCE;%3E+AI+%2B+BLOCKCHAIN" />
-
-<img src="https://img.shields.io/badge/LOCATION-NAIROBI,_KENYA-5eb91e?style=flat-square&logo=googlemaps&logoColor=white&color=0a0a0a&labelColor=5eb91e" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-5eb91e?style=flat-square&logo=matrix&logoColor=white&color=0a0a0a&labelColor=5eb91e" />
-<img src="https://img.shields.io/badge/EXPERIENCE-9%2B_YEARS-5eb91e?style=flat-square&logo=code&logoColor=white&color=0a0a0a&labelColor=5eb91e" />
+<img src="https://img.shields.io/badge/⟁_NODE_⟁-ONLINE-5eb91e?style=for-the-badge&logo=matrix&logoColor=white&color=0a0a0a&labelColor=5eb91e" />
+<img src="https://img.shields.io/badge/⎔_SECTOR_⎔-NAIROBI_GRID-5eb91e?style=for-the-badge&logo=googlemaps&logoColor=white&color=0a0a0a&labelColor=5eb91e" />
+<img src="https://img.shields.io/badge/⌬_UPTIME_⌬-9.4_CYCLES-5eb91e?style=for-the-badge&logo=code&logoColor=white&color=0a0a0a&labelColor=5eb91e" />
 
 </div>
 
 ---
 
-## PROFILE
+<div align="center">
 
-NAME:        Hillary Chesaro
-ROLE:        Computer Scientist / Full Stack Developer
-LOCATION:    Nairobi, Kenya
-EXPERIENCE:  9+ years
-CORE:        Leadership, Resource Mobilization, Capacity Building
+## ⚡ QUANTUM EXECUTION MATRIX ⚡
 
-Inquisitive, energetic, self-driven computer science specialist with 9 years experience. Skilled in leadership, resource mobilization, capacity building and problem-solving with strong foundation in math, logic and cross-platform coding.
+</div>
 
----
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  [████████████████░░░░]  PYTHON          ██ 85%  │  NEURAL ENGINE    ██ ACTIVE │
+│  [██████████████████░░]  C++/C#          ██ 90%  │  GAME CORE        ██ ONLINE │
+│  [█████████████████░░░]  JAVASCRIPT      ██ 88%  │  WEB MATRIX       ██ LIVE   │
+│  [████████████░░░░░░░░]  FLUTTER         ██ 75%  │  MOBILE LAYER     ██ SYNC   │
+│  [██████████████░░░░░░]  PHP/SQL         ██ 80%  │  DATA STREAM      ██ FLOW   │
+│  [██████████░░░░░░░░░░]  HYPERLEDGER     ██ 65%  │  CHAIN PROTOCOL   ██ VALID │
+│  [██████████████░░░░░░]  TENSORFLOW      ██ 80%  │  DEEP LEARN       ██ TRAIN │
+└─────────────────────────────────────────────────────────────────────────────┘
 
-## TECH STACK
+<div align="center">
 
-Python / PyTorch        ████████████░░░░ 85%
-C++ / C# / Unity        ██████████████░░ 90%
-JavaScript / React/Node █████████████░░░ 88%
-Flutter / Dart          ██████████░░░░░░ 75%
-PHP / MySQL             ████████████░░░░ 80%
-Hyperledger / Web3      ██████████░░░░░░ 65%
-TensorFlow / AI/ML      ████████████░░░░ 80%
+## 🧬 ACTIVE PROTOCOLS 🧬
 
-Domains: Blockchain | AI | Game Development | Azure Cloud | XR/VR/AR
+</div>
 
----
-
-## WORK EXPERIENCE
-
-Vicom Systems Developer
-Vicom Networks Limited | Apr 2024 - Present
-
-- Web Development & Web Services Coordination
-- Android/iOS Application Development
-
-Mobile Apps & Game Development Instructor
-Africa Digital Media Institute (ADMI) | Jan 2019 - Dec 2020
-
-- Developed curricula for Blockchain, AI, .NET C#, Unity
-- Taught React JS, Bootstrap, Azure (ASP.NET MVC), GitHub
-
-Senior Software Engineer
-CodOrps Studios Ltd. | Aug 2015 - Dec 2020
-
-- Head of Game Development (Android, PC, iOS, Windows Phone)
-- Software Project Manager
-- Created BebaBeba action-adventure game for virtual learning
-- Created MA3 Racer (Intel-sponsored, Havok physics)
-
-Lead Software Engineer
-Digital Heart and Diagnostic Center Ltd. | Feb 2019 - Mar 2019
-
-- Full-stack portal using Bootstrap, JavaScript, PHP 7, MySQL
-- UI/UX implementation and business logic architecture
-
-Software Engineer
-Artson Systems Corporation | Nov 2015 - Apr 2016
-
-- SQL optimization using extended events method
-- Requirements gathering, business analysis, project monitoring
-
----
-
-## AWARDS
-
-1st Runners Up - NASA International Space Apps Challenge (Nairobi, 2015)
-Created LiftOff app enabling astronauts to control Earth PCs from orbit
-
-1st Runners Up - Intel App Thwack Challenge, Kenya (Apr 2015)
-Gamification in education using 3D technologies
-
-Winner - Intel East Africa, Kenyatta University (Sept 2014)
-Best app: BebaBeba real-time action adventure game
-
-Winner - Ministry of Education, Baringo Region (May 2010)
-Best innovation: Machine that cooks using cooling (quantity of heat laws)
-
----
-
-## EDUCATION
-
-B.Sc. Computer Science (Second Class Honors)
-Kenyatta University | 2012 - 2016
-Favorite subjects: Data structures, algorithms, OOP, AI, Operating Systems
-Final Year Project: Fortis - FPS game using A* pathfinding (Windows/Linux/Mac)
-
-Visual Basic Programming (Distinction)
-African Institute of Research & Development | 2012
-
-K.C.S.E
-Kituro High School | 2008 - 2011
-
-K.C.P.E
-St. George Muthaiti Academy | 2000 - 2007
-
----
-
-## INTERESTS
-
-- Hackathons in Nairobi
-- XR/VR/AR development with Unity
-- Deep learning with PyTorch
-- Android game development
-- Blockchain + AI as 4th Industrial Revolution drivers
-- Reading
+{
+  designation: HILLARY_CHESARO,
+  class: COMPUTER_SCIENCE_SPECIALIST,
+  consciousness_load: 0.97,
+  active_domains: [BLOCKCHAIN, NEURAL_NETWORKS, QUANTUM_GAMING, XR_INTERFACE],
+  current_mission: DECENTRALIZE_THE_FUTURE,
+  encryption: AES_256_QUANTUM_READY
+}
 
 ---
 
 <div align="center">
 
-## CONNECT
+## 🔮 NEURAL NETWORK MAP 🔮
 
-Email: hillches@gmail.com
-GitHub: github.com/hillario
-LinkedIn: linkedin.com/in/hillaryhaji
-Portfolio: hillario.github.io
-Phone: +254 (0) 707 690 456
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=hillario&label=PROFILE_VIEWS&color=5eb91e&style=flat-square" />
+┌─────────────────────────┬─────────────────────────┬─────────────────────────┐
+│    ████████████ 85%     │    ██████████████ 90%    │    █████████████ 88%    │
+│    PYTHON               │    C++ / C#             │    JAVASCRIPT           │
+│    TENSORFLOW           │    UNITY ENGINE         │    REACT / NODE         │
+│    PYTORCH READY        │    GAME DEV ACTIVE      │    WEB3 INTEGRATION      │
+├─────────────────────────┼─────────────────────────┼─────────────────────────┤
+│    ██████████ 75%       │    ████████████ 80%     │    ██████████ 65%       │
+│    FLUTTER              │    PHP / MYSQL          │    HYPERLEDGER          │
+│    DART                 │    AZURE CLOUD          │    SMART CONTRACTS      │
+│    CROSS PLATFORM       │    API GATEWAY          │    PRIVATE NETWORKS      │
+└─────────────────────────┴─────────────────────────┴─────────────────────────┘
 
-**SYSTEM ONLINE // ENCRYPTED CONNECTION**
+<div align="center">
+
+## 🚀 DEPLOYMENT HISTORY 🚀
+
+</div>
+
+┌═══════════════════════════════════════════════════════════════════════════┐
+║  NASA SPACE APPS  ──  LIFTOFF SYSTEM  ──  ASTRONAUT EARTH-PC CONTROL      ║
+║  [STATUS: 1ST RUNNERS UP]              [SECTOR: ORBIT → GROUND]            ║
+╠═══════════════════════════════════════════════════════════════════════════╣
+║  INTEL APP THWACK   ──  BEBA BEBA     ──  GAMIFIED LEARNING PLATFORM       ║
+║  [STATUS: 1ST RUNNERS UP]              [SECTOR: EDUCATION → 3D WORLD]      ║
+╠═══════════════════════════════════════════════════════════════════════════╣
+║  INTEL EAST AFRICA   ──  ACTION RPG   ──  REAL TIME ADVENTURE ENGINE       ║
+║  [STATUS: WINNER]                     [SECTOR: KENYATTA UNI → GLOBAL]      ║
+╠═══════════════════════════════════════════════════════════════════════════╣
+║  MINISTRY OF EDUCATION ──  THERMAL COOKING MACHINE ──  PHYSICS ENGINE      ║
+║  [STATUS: WINNER]                     [SECTOR: BARINGO → INNOVATION]       ║
+└═══════════════════════════════════════════════════════════════════════════┘
+
+<div align="center">
+
+## ⎔ QUANTUM EDUCATION NODES ⎔
+
+</div>
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│  KENYATTA UNIVERSITY                                                     │
+│  B.SC COMPUTER SCIENCE  [2012-2016]  │  FINAL PROJECT: FORTIS FPS ENGINE │
+│  CORE: ALGORITHMS | OOP | AI | OS    │  PATHFINDING: A* IMPLEMENTATION   │
+├───────────────────────────────────────────────────────────────────────────┤
+│  AFRICAN INSTITUTE OF RESEARCH & DEVELOPMENT                             │
+│  VISUAL BASIC PROGRAMMING [2012]  │  DISTINCTION  │  IMAGE PROCESSING    │
+└───────────────────────────────────────────────────────────────────────────┘
+
+<div align="center">
+
+## 📡 LIVE FEED 📡
+
+</div>
+
+>_ ESTABLISHING SECURE CHANNEL... DONE
+>_ FETCHING ACTIVE PROJECTS...
+>_ XR/VR/AR DEVELOPMENT USING UNITY ENGINE
+>_ DEEP LEARNING RESEARCH WITH PYTORCH
+>_ BLOCKCHAIN + AI FOR 4TH INDUSTRIAL REVOLUTION
+>_ HACKATHON PRESENCE: NAIROBI SECTOR
+>_ PROTOCOL: CHAIN LINK ACTIVE
+
+---
+
+<div align="center">
+
+## 🔗 INTERCEPT SIGNAL 🔗
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ENCRYPTED_EMAIL-hillches%40gmail.com-5eb91e?style=for-the-badge&logo=protonmail&logoColor=white&color=0a0a0a&labelColor=5eb91e" />
+
+<img src="https://img.shields.io/badge/GITHUB_GRID-hillario-5eb91e?style=for-the-badge&logo=github&logoColor=white&color=0a0a0a&labelColor=5eb91e" />
+
+<img src="https://img.shields.io/badge/LINKEDIN_MATRIX-hillaryhaji-5eb91e?style=for-the-badge&logo=linkedin&logoColor=white&color=0a0a0a&labelColor=5eb91e" />
+
+<img src="https://img.shields.io/badge/HOLOGRAM_PORTAL-hillario.github.io-5eb91e?style=for-the-badge&logo=googlechrome&logoColor=white&color=0a0a0a&labelColor=5eb91e" />
+
+<img src="https://img.shields.io/badge/QUANTUM_LINE-%2B254_707_690_456-5eb91e?style=for-the-badge&logo=telegram&logoColor=white&color=0a0a0a&labelColor=5eb91e" />
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hillario&label=VISUAL_SENSORS&color=5eb91e&style=for-the-badge" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=12&duration=3000&pause=500&color=5EB91E&center=true&vCenter=true&width=400&height=25&lines=%3E+SYSTEM_INTEGRITY_VERIFIED;%3E+ENCRYPTED_CONNECTION;%3E+AWAITING_COMMANDS" />
+
+**⟁ SYSTEM ONLINE // ENCRYPTION ACTIVE // QUANTUM READY ⟁**
 
 </div>
